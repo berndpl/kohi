@@ -15,8 +15,21 @@ h1,h2,h3,h4 {
 	margin: 0;
 }
 
+ul {
+	padding-left: 0;
+}
+
+strong {
+	font-weight: 400;
+	color: black;
+}
+
 .post-list {
 	padding-left: 0;
+}
+
+.post-header .post-title, .post-meta {
+	display:inline-block;
 }
 
 .post-list h2 {
@@ -39,6 +52,12 @@ h1,h2,h3,h4 {
 		border-radius: 4px;
 		color: #6f6f6f;
 		font-size:0.8em;
+	}
+
+	.meta-box {
+		border: 1px solid grey;
+		padding: 2px 4px 2px 4px;
+		border-radius: 4px;		
 	}
 
 	a:hover {
@@ -116,13 +135,17 @@ h1,h2,h3,h4 {
 
 blockquote {
 /* color: hsla(0, 0%, 36%, 1); */
-border-left: 6px solid hsla(0, 0%, 31%, 0.45);
+border-left: 6px solid rgba(255, 0, 154, 0.5);
 margin: 1.5em 0px;
 padding: 0.5em 20px;
 }
 
 blockquote p {
   display: inline;
+}
+
+blockquote ul {
+	margin: 0;
 }
 
 @media (max-width: 30em) {
