@@ -18,4 +18,6 @@ categories: batch roast
 * **Waste** 10.7 grams
 * **Roasted beans** 50.7 grams
 
-![Roasting Process, Batch 1]({{ site.url }}/assets/1/batch01_01.jpg)
+![Roasting Process, Batch 1]({{ site.baseurl }}/assets/1/batch01_01.jpg)
+![Roasting Process, Batch 1]({{ site.baseurl }}/assets/1/batch01_02.jpg)
+![Roasting Process, Batch 1]({{ site.baseurl }}/assets/1/batch01_03.jpg)
