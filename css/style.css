@@ -1,0 +1,135 @@
+h1,h2,h3,h4 {
+		font-family: 'Montserrat';
+		padding: 0px;
+		padding-top: 1.1em;
+		line-height: 1.6em;
+	}	
+
+	p {
+		margin-top: 0px;
+		padding-top: 0px;
+	}
+
+#header h1 {
+	padding: 0;
+	margin: 0;
+}
+
+	.meta
+	{
+		font-family: 'Montserrat';
+		font-weight: 100;
+		background-color: hsla(0, 0%, 0%, 0.1);
+		
+		padding: 2px 4px 2px 4px;
+		border-radius: 4px;
+		color: #6f6f6f;
+		font-size:0.8em;	
+	}
+		
+	a:hover {
+		background-color: hsla(197, 80%, 70%, 0.23);
+		/*padding: 2px 4px 2px 4px;*/
+		border-radius: 4px;
+	}	
+		
+  	body {
+	  font-family: 'Oxygen Mono', Helvetica, Arial, 'Lucida Grande', sans-serif;
+	  color: hsla(204, 6%, 17%, 0.87);
+	  background-color: hsla(0, 0%, 95%, 1)
+	  font-weight: 100;
+	  font-size: 1em;
+	  line-height: 2;
+	  
+	  padding-top: 50px;
+	  padding-left: 50px;
+	  padding-right: 50px;	  
+	  max-width:500px;	  
+	}
+		
+	a {
+		text-decoration: none;
+		border-bottom: 1px solid rgba(255, 0, 154, 0.5);
+		color: hsla(0, 0%, 0%, 0.5);
+	}
+	
+	img {
+		max-width:100%;
+	}
+
+	
+	div #caption {
+		height: 90px;
+		background-color: hsla(360, 100%, 73%, 1);
+		margin-bottom: 10px;
+	}
+
+	div #caption h1 {
+		font-family: 'Montserrat';
+		padding-top: 0px;
+		color: hsla(0, 0%, 100%, 1);
+	}
+
+	div #caption h2 {
+		font-family: 'Montserrat';
+		font-weight: 100;		
+		color: hsla(0, 0%, 100%, 1);
+		margin-top: 12px;		
+	}
+		
+	div #caption h1 {
+		text-align:left;float:left;
+		font-weight: 800;		
+		padding-left: 30px;				
+	}
+	
+	div #caption h2 {
+		padding-top: 18px;				
+		padding-right: 30px;		
+		text-align:right;float:right;
+		font-weight: 100;
+		font-size: 1.3em;		
+	}
+	
+	div #soundcloud {
+		padding-top: 0;
+		margin-top: 0;
+	}
+	
+	li {
+		list-style: none;
+	}
+	
+blockquote {
+/* color: hsla(0, 0%, 36%, 1); */
+border-left: 6px solid hsla(0, 0%, 31%, 0.45);
+margin: 1.5em 0px;
+padding: 0.5em 20px;
+}
+
+blockquote p {
+  display: inline;
+}
+
+@media (max-width: 30em) { 
+	
+	div #caption {
+		height: 70px;
+		margin-top: 0px;
+		padding-top: 0px;
+		background-color: hsla(360, 100%, 73%, 1);
+	}
+
+	div #caption h1 {
+		font-size: 1.5em;		
+		padding-left: 20px;
+		padding-top: 0px;
+	}
+
+	div #caption h2 {
+		font-size: 1em;
+		font-weight: 100;		
+		padding-top: 9px;
+		padding-right: 20px;				
+	}	
+}
