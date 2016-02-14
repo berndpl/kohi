@@ -1,0 +1,21 @@
+---
+layout: post
+title:  'Batch #1'
+date:   2016-02-06 16:47:45 +0100
+categories: batch roast
+---
+
+* **Date** 06.02.2016, 12:45
+* **Air** 10°C
+
+### Process
+* **1. Crack**, 6:01 min
+* **2. Crack**, 21:36 min
+* **Total duration** 22:36 min
+
+### Beans
+* **Unroasted beans** 75 grams
+* **Waste** 10.7 grams
+* **Roasted beans** 50.7 grams
+
+![Roasting Process, Batch 1]({{ site.url }}/assets/1/batch01_01.jpg)
