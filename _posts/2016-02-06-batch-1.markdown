@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  'Batch #1'
-date:   2016-02-06 16:47:45 +0100
-categories: batch roast
+date:   2016-02-06 12:45:45 +0100
+categories: Roast
 permalink: /1/
 ---
 
