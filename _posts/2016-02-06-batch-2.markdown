@@ -1,0 +1,28 @@
+---
+layout: post
+title:  'Batch #2'
+date:   2016-02-06 14:00:45 +0100
+categories: Roast
+permalink: /2/
+---
+
+# Batch #2
+
+> * **Date** 06.02.2016, 14:00
+> * **Air** 10°C
+
+### Process
+> * **1. Crack**, 5:53 min
+> * **2. Crack**, –
+> * **Duration** <span class="meta-box">14:00 min</span>
+
+### Beans
+> * **Total** 75 grams
+> * **Waste** 5.0 grams
+> * **Roasted** <span class="meta-box">58.0 grams</span>
+
+![Roasting Process, Batch 1]({{ site.baseurl }}/assets/2/batch01_01.jpg)
+![Roasting Process, Batch 1]({{ site.baseurl }}/assets/2/batch01_02.jpg)
+![Roasting Process, Batch 1]({{ site.baseurl }}/assets/2/batch01_03.jpg)
+![Roasting Process, Batch 1]({{ site.baseurl }}/assets/2/batch01_04.jpg)
+![Roasting Process, Batch 1]({{ site.baseurl }}/assets/2/batch01_05.jpg)
