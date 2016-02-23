@@ -5,6 +5,8 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'jekyll serve'. If you change this file, please restart the server process.
 
+gems: [jekyll-paginate]
+
 # Site settings
 title: "Balconia Coffee"
 email: "your-email@domain.com"
@@ -13,6 +15,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 twitter_username: "berndplontsch"
 github_username:  "berndp"
+paginate: 3
+paginate_path: "blog/:num"
 
 # Build settings
 markdown: kramdown

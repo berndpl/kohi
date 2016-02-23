@@ -1,18 +1,21 @@
 ---
 layout: post
-title:  Session 2 goals
+title:  Session 2
 date:   2016-02-13 11:47:45 +0100
 categories: Goals
+permalink: /session-2/
 ---
 
-## Goals
-* Increase weight to change heat situation
-* See time of second crack changes
-* Explore area closer to first crack
+### Plan
+> * Increase weight from 75g to 90g. Hope to affect heat situation
 
-## Parameters
-* **Bean weight** 90g
-* **Air temperature** 5°C
-![Session 2]({{ site.baseurl }}/assets/2016-02-13/session02_01.jpg)
-![Session 2]({{ site.baseurl }}/assets/2016-02-13/session02_02.jpg)
-![Session 2]({{ site.baseurl }}/assets/2016-02-13/session02_03.jpg)
+### Goals
+> * Observe time of second crack changing compared to session 1
+> * Explore area closer to first crack
+
+### Parameters
+> * **Bean weight** 90g
+> * **Air temperature** 5°C
+
+![Session 2]({{ site.baseurl }}/assets/2016-02-13/session02_01.jpg)*Preparing the batches. 90g each*
+![Session 2]({{ site.baseurl }}/assets/2016-02-13/session02_02.jpg)*Still using the beans from Costa Rica, Tarrazú de San Ramón*

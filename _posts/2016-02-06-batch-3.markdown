@@ -3,19 +3,22 @@ layout: roast
 title:  'Batch #3'
 date:   2016-02-06 14:45:45 +0100
 categories: Roast
+tags:
+- batch3
 permalink: /3/
 ---
 
 * **Date** 06.02.2016, 14:45
 * **Air** 10°C
+* **Session** [Goals]({{ site.baseurl }}/session-1/)
 
-Process
+### Process
 
 * **1. Crack**, 6:01 min
 * **2. Crack**, –
 * **Duration** <span class="meta-box">10:00 min</span>
 
-Beans
+### Beans
 
 * **Total** 75 grams
 * **Waste** 0.9 grams

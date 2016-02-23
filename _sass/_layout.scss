@@ -120,7 +120,7 @@
 
     .divider {
       height:1px;
-      background-color: red;
+      background-color: $alternate-brand-color;
       width: 100px;
       margin: 0 auto;
     }
@@ -149,10 +149,10 @@
     }
 
     h3 {
-        font-size: 26px;
+        // font-size: 26px;
 
         @include media-query($on-laptop) {
-            font-size: 22px;
+            // font-size: 22px;
         }
     }
 
@@ -191,6 +191,8 @@
     font-size: 1.4em;
   }
 }
+
+
 
 .home .post-list {
     margin-left: 0;

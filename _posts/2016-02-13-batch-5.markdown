@@ -1,0 +1,29 @@
+---
+layout: roast
+title:  'Batch #5'
+date:   2016-02-13 16:28:45 +0100
+categories: Roast
+tags:
+- batch5
+permalink: /5/
+---
+
+* **Beans** 71 grams
+* **Air** 5°C
+* **Session** [Goals]({{ site.baseurl }}/session-2/)
+
+### Process
+
+* **1. Crack**, 4:00 min
+* **2. Crack**, – min
+* **Duration** 12:01 min
+
+### Beans
+
+* **Total** 90 grams
+* **Waste** 5.4 grams
+* **Roasted** 71 grams
+
+![Roasting Process, Batch 5]({{ site.baseurl }}/assets/5/batch05_01.jpg)*Observing waste*
+![Roasting Process, Batch 5]({{ site.baseurl }}/assets/5/batch05_02.jpg)
+![Roasting Process, Batch 5]({{ site.baseurl }}/assets/5/batch05_03.jpg)*Finished roast, batch 5*

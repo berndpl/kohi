@@ -3,11 +3,14 @@ layout: roast
 title:  'Batch #2'
 date:   2016-02-06 14:00:45 +0100
 categories: Roast
+tags:
+- batch2
 permalink: /2/
 ---
 
 * **Date** 06.02.2016, 14:00
 * **Air** 10°C
+* **Session** [Goals]({{ site.baseurl }}/session-1/)
 
 Process
 

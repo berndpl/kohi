@@ -77,12 +77,15 @@ li {
 /**
  * Headings
  */
-h1, h2, h3, h4, h5, h6 {
+h1, h2, h4, h5, h6 {
     font: $base-font-weight #{$base-font-size}/#{$base-line-height} $headline-font-family;
     font-weight: 100;
 }
 
-
+h3 {
+  font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
+  color: $black-color;
+}
 
 /**
  * Links
@@ -113,7 +116,6 @@ blockquote {
     color: $grey-color;
     border-left: 4px solid $grey-color-light;
     padding-left: $spacing-unit / 2;
-    letter-spacing: -1px;
 
     ul {
       list-style-type: none;
@@ -234,6 +236,7 @@ div.logo {
   text-align:center;
 }
 
+
 ul {
   margin-left: 0;
   // padding-left: 0px;
@@ -245,9 +248,13 @@ ul {
 
 img + em {
   font-size: 0.8em;
-  color:$grey-color;
+  color:$grey-color-dark;
   font-style: normal;
-  background-color: yellow;
+  background-color: $marker-color;
   padding: 5px;
   line-height: 3;
+}
+
+::selection {
+  background: $marker-color;
 }

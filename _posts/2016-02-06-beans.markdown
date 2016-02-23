@@ -5,12 +5,10 @@ date:   2016-02-04 16:47:45 +0100
 categories: Background
 ---
 
-# Beans
-
 Received the first order of unroasted coffee beans today.  
 
-* 1kg **Costa Rica**, Tarrazú de San Ramón
-* 1kg **Guatemala**, Finca Buena Vista, Genuine Antigua, Microlot
+> * 1kg **Costa Rica**, Tarrazú de San Ramón
+> * 1kg **Guatemala**, Finca Buena Vista, Genuine Antigua, Microlot
 
 I got them at [Rohkaffeebohnen](http://www.rohkaffeebohnen.de)
 

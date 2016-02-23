@@ -1,0 +1,29 @@
+---
+layout: roast
+title:  'Batch #4'
+date:   2016-02-13 15:50:45 +0100
+categories: Roast
+tags:
+- batch4
+permalink: /4/
+---
+
+* **Beans** 55 grams
+* **Air** 6°C
+* **Session** [Goals]({{ site.baseurl }}/session-2/)
+
+### Process
+
+* **1. Crack**, 6:30 min
+* **2. Crack**, – min
+* **Duration** 25:53 min
+
+### Beans
+
+* **Total** 90 grams
+* **Waste** 19.5 grams
+* **Roasted** 55 grams
+
+![Roasting Process, Batch 4]({{ site.baseurl }}/assets/4/batch04_01.jpg)*Roast of batch #4 in progress*
+
+![Roasting Process, Batch 4]({{ site.baseurl }}/assets/4/batch04_02.jpg)*Finished roast, cooling off beans*

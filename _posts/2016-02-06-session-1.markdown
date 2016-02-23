@@ -1,18 +1,21 @@
 ---
 layout: post
-title:  Session 1 goals
+title:  Session 1
 date:   2016-02-06 11:47:45 +0100
 categories: Goals
+permalink: /session-1/
 ---
 
-## Goals
+Preparing the first roast. Goals.
 
-* First roast
-* Recognize the cracks
-* Wait for second crack
-* Measure time
-* Identify baseline in roast parameters and flavor for upcoming roasts
+> * Just do it
+> * Recognize when the cracks happen
+> * Wait for second crack
+> * Measure time
+> * Identify baseline in roast parameters and flavor for upcoming roasts
 
-## Parameters
-* Bean weight 75g
-* Air temperature 5°C
+### Parameters
+> * Bean weight 75g
+> * Air temperature 5°C
+
+![Session 1]({{ site.baseurl }}/assets/2016-02-06/session_01.jpg)*Beans from Costa Rica, Tarrazú de San Ramón*
