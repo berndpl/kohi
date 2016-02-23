@@ -5,4 +5,4 @@ date:   2016-02-01 16:47:45 +0100
 categories: Background
 ---
 
-Going deep on a forum thread about using popcorn poppers for roasting coffee [forum] (https://www.kaffee-netz.de/threads/kaffee-roesten-mit-severin-popcornmaschine-3751.80919/).
+Going deep on a forum thread about using popcorn poppers for roasting coffee [forum](https://www.kaffee-netz.de/threads/kaffee-roesten-mit-severin-popcornmaschine-3751.80919/).

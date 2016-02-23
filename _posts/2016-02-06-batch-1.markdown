@@ -1,23 +1,25 @@
 ---
-layout: post
+layout: roast
 title:  'Batch #1'
 date:   2016-02-06 12:45:45 +0100
 categories: Roast
 permalink: /1/
 ---
 
-> * **Date** 06.02.2016, 12:45
-> * **Air** 10°C
+* **Beans** 50.7 grams
+* **Air** 10°C
 
-### Process
-> * **1. Crack**, 6:01 min
-> * **2. Crack**, 21:36 min
-> * **Duration** <span class="meta-box">22:36 min</span>
+Process
 
-### Beans
-> * **Total** 75 grams
-> * **Waste** 10.7 grams
-> * **Roasted** <span class="meta-box">50.7 grams</span>
+* **1. Crack**, 6:01 min
+* **2. Crack**, 21:36 min
+* **Duration** <span class="meta-box">22:36 min</span>
+
+Beans
+
+* **Total** 75 grams
+* **Waste** 10.7 grams
+* **Roasted** <span class="meta-box">50.7 grams</span>
 
 ![Roasting Process, Batch 1]({{ site.baseurl }}/assets/1/batch01_01.jpg)
 ![Roasting Process, Batch 1]({{ site.baseurl }}/assets/1/batch01_02.jpg)

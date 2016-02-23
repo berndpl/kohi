@@ -3,9 +3,6 @@ layout: default
 ---
 
 <div class="home">
-
-  <h1 class="page-heading">Posts</h1>
-
   <ul class="post-list">
     {% for post in site.posts %}
         {% if post.categories contains 'Roast' %}
@@ -19,6 +16,8 @@ layout: default
   {% endfor %}
   </ul>
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+  <div class="about">
+    Looking for the perfect flavour. Exploring coffee roast by roast. All beans are single origin. Roasted in a popcorn popper on the balcony in Berlin by roast master Bernd.
+  </div>
 
 </div>
