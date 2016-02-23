@@ -1,8 +1,0 @@
----
-layout: post
-title:  Process
-date:   2016-02-07 12:45:45 +0100
-categories: Background
----
-
-Some words about the process of my first roast [here on Medium](https://medium.com/@berndplontsch/roasting-coffee-with-a-popcorn-popper-79ce07698343#.tctyxcdj6).
