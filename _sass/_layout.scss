@@ -210,3 +210,15 @@
     width: 150px;
   }
 }
+
+.site-nav a.active {
+  // color:$brand-color;
+  // text-decoration: underline;
+  color:$black-color;
+}
+
+.site-nav a {
+  // color:$brand-color;
+  // text-decoration: underline;
+  color:$grey-color;
+}

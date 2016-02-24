@@ -8,16 +8,21 @@ layout: default
         {% if post.categories contains 'Roast' %}
       <li>
         <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
         <div class="meta-date">{{ post.date | date_to_string }}</div>
-        <div class="meta-date"><img src="{{ site.baseurl }}/assets/{{ post.tags }}@2x.png" width="300px" /></div>
+        <div class="meta-date"><img src="{{ site.baseurl }}/assets/{{ post.tags }}@2x.png" width="300px" title="Roast duration and moment of first crack" />
       </li>
       {% endif %}
   {% endfor %}
   </ul>
 
   <div class="about">
-    In search for the perfect taste. Exploring coffee roast by roast. All beans are single origin. Roasted in a popcorn popper on a balcony in Berlin by <a href="https://twitter.com/berndplontsch">Bernd Plontsch</ a>.
+    In search for the perfect taste. Exploring coffee roast by roast. All beans are single origin. Roasted in a popcorn popper on a balcony in Berlin by <a href="https://twitter.com/berndplontsch">Bernd Plontsch</a>. Get in touch!
   </div>
+
+  <!-- <img src="{{ site.baseurl }}/assets/kohi_header.jpg" alt="" width="600" /> -->
+
 </div>
+
+{% include footer-roasts.html %}
