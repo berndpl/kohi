@@ -1,21 +1,22 @@
 ---
 layout: post
-title:  Tasting batches 1 - 3
+title:  Tasting Roasts 1 - 3
 date:   2016-02-07 12:45:45 +0100
 categories: Tasting
+permalink: /session-1-taste/
 ---
 
-### Batch #1 ☹️
+### [Roast #1]({{ site.baseurl }}/1/) ☹️
 
-> Too dark. Too smokey. Not burned but very much like classic Supermarket coffee beans.
+Too dark. Too smokey. Not burned but very much like classic Supermarket coffee beans.
 
-### Batch #2 😒
+### [Roast #2]({{ site.baseurl }}/2/) 😒
 
-> Overall too and smokey. Surprisingly oily.
+Overall too and smokey. Surprisingly oily.
 
-### Batch #3 😝
+### [Roast #3]({{ site.baseurl }}/3/) 😝
 
-> Too uneven, Sour, unbalanced. Tough but Drinkable
+Too uneven, Sour, unbalanced. Tough but Drinkable
 
 ### Summary
 

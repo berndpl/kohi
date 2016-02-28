@@ -1,6 +1,6 @@
 ---
 layout: roast
-title:  'Batch #1'
+title:  'Roast #1'
 date:   2016-02-06 12:45:45 +0100
 categories: Roast
 tags:
@@ -11,6 +11,7 @@ permalink: /1/
 * **Beans** 50.7 grams
 * **Air** 10°C
 * **Session** [Goals]({{ site.baseurl }}/session-1/)
+* **Taste** [☹️]({{ site.baseurl }}/session-1-taste/)
 
 ### Process
 

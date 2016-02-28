@@ -1,6 +1,6 @@
 ---
 layout: roast
-title:  'Batch #3'
+title:  'Roast #3'
 date:   2016-02-06 14:45:45 +0100
 categories: Roast
 tags:
@@ -11,6 +11,7 @@ permalink: /3/
 * **Date** 06.02.2016, 14:45
 * **Air** 10°C
 * **Session** [Goals]({{ site.baseurl }}/session-1/)
+* **Taste** [😝]({{ site.baseurl }}/session-1-taste/)
 
 ### Process
 

@@ -222,3 +222,11 @@
   // text-decoration: underline;
   color:$grey-color;
 }
+
+.legend {
+  margin-top: -1.8em;
+  padding-bottom: 1.8em;
+  img {
+    padding-bottom: 4px;
+  }
+}
