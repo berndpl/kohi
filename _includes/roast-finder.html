@@ -1,0 +1,15 @@
+<p class="roast-lookup">
+<script>
+function process()
+{
+var url="{{ site.baseurl }}/" + document.getElementById("roastID").value;
+location.href=url;
+return false;
+}
+</script>
+
+<form action="{{ site.baseurl }}/" onSubmit="return process();">
+  <span>Roast #</span><input type="text" name="Roast #" id="roastID" placeholder="42" maxlength="2" size="2"  pattern="[0-9]{1,99}" />
+  <input type="submit" value="Go to roast" />
+</form>
+</p>

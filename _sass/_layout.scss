@@ -193,6 +193,9 @@
 }
 
 
+.home h3 {
+  padding-bottom: 1.2em;
+}
 
 .home .post-list {
     margin-left: 0;
@@ -212,20 +215,16 @@
 }
 
 .site-nav a.active {
-  // color:$brand-color;
-  // text-decoration: underline;
   color:$black-color;
 }
 
 .site-nav a {
-  // color:$brand-color;
-  // text-decoration: underline;
   color:$grey-color;
 }
 
 .legend {
-  margin-top: -1.8em;
-  padding-bottom: 1.8em;
+  margin-top: -1.2em;
+  padding-bottom: 2.0em;
   img {
     padding-bottom: 4px;
   }
@@ -237,20 +236,52 @@
 
 input[type="text"] {
   background-color: $grey-color-light;
+  padding: 3px;
+  padding-left: 5px;
+  padding-right: 5px;
+  border-top: 0px;
+  border-left: 0px;
+  border-right: 0px;
+  border-bottom: 1px solid $brand-color;
+  font-size: $base-font-size;
+  font-family: $headline-font-family;
+
+}
+
+input[type="text"]:focus {
+    background:$marker-color;
 }
 
 input[type="submit"] {
     background-color: #38B8B7;
     border-radius:3px;
     color: #fff;
-    font-size: 12px;
+    font-weight: 800;
+    font-size: 1.0em;
     text-decoration: none;
-    cursor: poiner;
-     border:none;
-     padding: 3px;
-     padding-left: 5px;
-     padding-right: 5px;
-     font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    cursor: pointer;
+    border:none;
+    padding: 3px;
+    padding-left: 5px;
+    padding-right: 5px;
+    font-family: $headline-font-family;
+}
+
+.home input[type="submit"] {
+    background-color: transparent;
+    color: $brand-color;
+    font-weight: 100;
+    font-family: $base-font-family;
+}
+
+.home input[type="submit"]:hover {
+    text-decoration: underline;
+    background-color:transparent;
+    box-shadow: 0px 0px 0px transparent;
+}
+
+input:invalid {
+  background: hsla(0, 90%, 70%, 1);
 }
 
 input[type="submit"]:hover {
