@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div class="home">
-<<<<<<< Updated upstream
+
   <h3>Recent roasts</h3>
   <ul class="post-list">
     {% for post in site.posts %}
@@ -19,23 +19,7 @@ layout: default
   {% endfor %}
     <li>{% include roast-finder.html %}</li>
   </ul>
-=======
-  <h3>Recently roasted</h3>
-    <ul class="post-list">
-      {% for post in site.posts %}
-          {% if post.categories contains 'Roast' %}
-        <li>
-          <h2>
-            <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-          </h2>
-          <div class="meta-date">{{ post.date | date_to_string }}</div>
-          <div class="meta-date"><img src="{{ site.baseurl }}/assets/{{ post.tags }}@2x.png" width="300px" title="Roast duration and moment of first crack" />
-        </li>
-        {% endif %}
-    {% endfor %}
-      <li>{% include roast-finder.html %}</li>
-    </ul>
->>>>>>> Stashed changes
+
   <div class="legend"><img src="{{ site.baseurl }}/assets/LegendCrack.png" width="10px" alt="First Crack" /> First crack <img src="{{ site.baseurl }}/assets/LegendDuration.png" width="10px" alt="Roast duration" /> Relative duration </div>
 
   <div class="about">

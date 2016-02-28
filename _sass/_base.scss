@@ -85,6 +85,8 @@ h1, h2, h4, h5, h6 {
 h3 {
   font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
   color: $black-color;
+  // background-color: $marker-color;
+  padding-bottom: 0;
 }
 
 /**
@@ -257,4 +259,8 @@ img + em {
 
 ::selection {
   background: $marker-color;
+}
+
+.marked {
+  background-color: $marker-color;
 }

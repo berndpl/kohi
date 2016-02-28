@@ -244,7 +244,7 @@ form {
 }
 
 input[type="text"] {
-  // background-color: $grey-color-light;
+  // background-color: lighten($grey-color-light, 45%);
   color: $brand-color-darken;
   padding: 3px;
   padding-left: 3px;
@@ -252,7 +252,7 @@ input[type="text"] {
   border-top: 0px;
   border-left: 0px;
   border-right: 0px;
-  border-bottom: 1px solid $brand-color;
+  border-bottom: 1px solid $grey-color;
   font-size: $base-font-size;
   font-family: $base-font-family;
 }
@@ -312,4 +312,9 @@ input:invalid {
   img {
     margin-bottom: 2em;
   }
+}
+
+.marked {
+  display: block;
+
 }
