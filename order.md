@@ -4,14 +4,8 @@ title: Order
 permalink: /order/
 ---
 
-> All roast batches are numbered and have a dedicated pages with details about the beans, the roast process and goals. This allows you to learn more about the specific beans you drink.
+> All roast are numbered and have a dedicated page with details about the applied process and roast parameters. The idea is to empower you to learn more about your coffee and draw your own conclusions.
 
-### Trade
+Currently there is no coffee available for order. If you want to be notified about purchasing opportunities please <a href="https://twitter.com/berndplontsch">let me know</a>.
 
-I only do tiny batches. If you home roast as well, please let me know. I am in your process and would love to trade roast results with you.
-
-### Order
-
-Currently there is no coffee available for order. If you want to be notified about purchasing opportunities please let me know.
-
-Enjoy.
+The only way to get a batch of **Balconia Coffee** is trade in your own home roast coffee.
