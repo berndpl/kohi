@@ -2,20 +2,24 @@
 layout: default
 ---
 
-<div class="blog">
-
+<div class="home">
+  <h3>Blog</h3>
   <ul class="post-list">
     {% for post in site.posts %}
-      {% unless post.categories contains 'Roast' %}
+        {% unless post.categories contains 'Roast' %}
       <li>
         <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
-        {{ post.content }}
+        <div class="meta-date">{{ post.date | date_to_string }}</div>
       </li>
       {% endunless %}
-    {% endfor %}
+  {% endfor %}
   </ul>
+
+  <div class="about">
+    <p>This where I document roasting progress and insights. See <strong>Balconia Coffee</strong> unfold. Roast by roast. I'd love to hear your thoughts. Please get in touch via <a href="https://twitter.com/berndplontsch">Twitter</a>.</p>
+  </div>
 
 </div>
 
