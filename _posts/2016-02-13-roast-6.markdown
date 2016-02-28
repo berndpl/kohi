@@ -24,6 +24,7 @@ permalink: /6/
 * **Waste** 2.7 grams
 * **Roasted** 71 grams
 
-![Roasting Process, Batch 5]({{ site.baseurl }}/assets/5/batch05_01.jpg)*Observing waste*
-![Roasting Process, Batch 5]({{ site.baseurl }}/assets/5/batch05_02.jpg)
-![Roasting Process, Batch 5]({{ site.baseurl }}/assets/5/batch05_03.jpg)*Finished roast, batch 5*
+![Roasting Process, Batch 6]({{ site.baseurl }}/assets/6/batch06_01.jpg)*Starting the roast*
+![Roasting Process, Batch 6]({{ site.baseurl }}/assets/6/batch06_02.jpg)
+![Roasting Process, Batch 6]({{ site.baseurl }}/assets/6/batch06_03.jpg)*Sample right after first crack*
+![Roasting Process, Batch 6]({{ site.baseurl }}/assets/6/batch06_05.jpg)*Cooling off*
