@@ -7,7 +7,7 @@ permalink: /order/
 <div class="package"><img src="{{ site.baseurl }}/assets/package@2x.png" width="220px" alt="Balconia Coffee Beans" /></div>
 
 <blockquote>
-<p><a href="/">Every single roast</a> has a dedicated page where you can lookup details about the roasting process, parameters and goals. This is about allowing you to develop a deeper understanding for your coffee.</p>
+<p><a href="/">Every roast</a> has a dedicated page where you can learn everything about the roasting process, parameters and goals.</p>
 </blockquote>
 
 Batches available for order are very limited. If you want to reserve coffee please get in touch.
