@@ -93,15 +93,11 @@ h3 {
  * Links
  */
 a {
-    color: $brand-color;
+    color: $brand-color-darken;
     text-decoration: none;
 
-    &:visited {
-        color: $brand-color-darken;
-    }
-
     &:hover {
-        color: $text-color;
+        color: $brand-color;
         text-decoration: underline;
     }
 }
