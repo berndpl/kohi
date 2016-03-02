@@ -10,7 +10,7 @@ permalink: /order/
 <p><a href="/">Every roast</a> has a dedicated page where you can learn everything about the roasting process, parameters and goals.</p>
 </blockquote>
 
-Batches available for order are very limited. If you want to reserve coffee please get in touch.
+Batches available for order are very limited.
 
 <div class="package">
 <span><a href="mailto:hello@plontsch.de">Reserve via mail</a></span>
