@@ -2,8 +2,10 @@
 layout: default
 ---
 
+{% include nav-blog.html %}
+
 <div class="home">
-  <h3>Blog</h3>
+
   <ul class="post-list">
     {% for post in site.posts %}
         {% unless post.categories contains 'Roast' %}
@@ -22,5 +24,3 @@ layout: default
   </div>
 
 </div>
-
-{% include footer-blog.html %}

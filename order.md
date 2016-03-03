@@ -4,6 +4,8 @@ title: Order
 permalink: /order/
 ---
 
+{% include nav-order.html %}
+
 <div class="package"><img src="{{ site.baseurl }}/assets/package@2x.png" width="220px" alt="Balconia Coffee Beans" />
 </div>
 
@@ -11,12 +13,8 @@ permalink: /order/
 <p><a href="/">Every roast</a> has a dedicated page where you can learn everything about the roasting process, parameters and goals.</p>
 </blockquote>
 
-Currently there are no beans available for order.
-
-The only way to get Balconia Coffee is via **Beans Swap**. 
+Currently there are no beans available for order. If you you want to get notified about fresh roast, please sign up up for roast notifications.
 
 <div class="package">
-<span><a href="mailto:hello@plontsch.de">Get in touch via mail</a></span>
+<span><a href="mailto:hello@plontsch.de">Get notified</a></span>
 </div>
-
-{% include footer-order.html %}
