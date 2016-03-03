@@ -118,13 +118,15 @@
       margin-top: 10px;
     }
 
-    .divider {
-      height:1px;
-      background-color: $alternate-brand-color;
-      width: 100px;
-      margin: 0 auto;
-    }
 
+
+}
+
+.divider {
+  height:1px;
+  background-color: $alternate-brand-color;
+  width: 100px;
+  margin: 0 auto;
 }
 
 .post-title {
@@ -307,6 +309,7 @@ input:invalid {
 
 .site-footer {
   margin-top: 2.0em;
+  margin-bottom: 4.0em;
   text-align: center;
   color: $grey-color-light;
 }
