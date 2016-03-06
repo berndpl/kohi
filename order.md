@@ -13,7 +13,7 @@ permalink: /order/
 <p><a href="/">Every roast</a> has a dedicated page where you can learn everything about the roasting process, parameters and goals.</p>
 </blockquote>
 
-Currently there are no beans available for order. If you you want to get notified about fresh roast, please sign up up for roast notifications.
+Currently there are no beans available for order. If you you want to get notified about fresh roasts, please sign up up for roast notifications.
 
 <div class="package">
 <span><a href="mailto:hello@plontsch.de">Get notified</a></span>

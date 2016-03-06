@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Session 2
+title:  ⚐ Session 2
 date:   2016-02-13 11:47:45 +0100
 categories: Goals
 permalink: /session-2/

@@ -1,0 +1,21 @@
+---
+layout: post
+title:  ⚐ Session 3
+date:   2016-03-06 14:47:45 +0100
+categories: Goals
+permalink: /session-3/
+---
+
+### Plan
+> * Further increase weight <strike>from 75g to 90g</strike> to 110g
+
+### Goals
+> * Roast in 2 minute increments after first crack
+> * Aim for a light, yet more even roast
+
+### Parameters
+> * **Bean weight** 110g
+> * **Air temperature** 4-5°C
+
+![Session 3]({{ site.baseurl }}/assets/2016-03-06/session03_01.jpg)
+![Session 3]({{ site.baseurl }}/assets/2016-03-06/session03_02.jpg)*Beans from Costa Rica, Tarrazú de San Ramón*
