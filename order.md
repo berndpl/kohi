@@ -6,14 +6,14 @@ permalink: /order/
 
 {% include nav-order.html %}
 
-<div class="package"><img src="{{ site.baseurl }}/assets/package@2x.png" width="220px" alt="Balconia Coffee Beans" />
+<div class="package"><img src="{{ site.baseurl }}/assets/balconia_package_placeholder.jpg" width="220" alt="Balconia Coffee Beans" />
 </div>
 
 <blockquote>
 <p><a href="/">Every roast</a> has a dedicated page where you can learn everything about the roasting process, parameters and goals.</p>
 </blockquote>
 
-Currently there are no beans available for order. If you you want to get notified about fresh roasts, please sign up up for roast notifications.
+Currently there are no beans available for order. Leave your email address here to get notified about fresh roasts …and really just that. Promise.
 
 
 <!-- Begin MailChimp Signup Form -->
