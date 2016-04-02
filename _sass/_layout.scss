@@ -181,7 +181,6 @@
 
 .post-list {
     margin-left: 0;
-    padding-bottom: 0.6em;
     list-style: none;
 
     > li {
@@ -197,11 +196,13 @@
 }
 
 .site-nav a.active {
-  color:$black-color;
+  background-color: $marker-color;
+  padding: 4px 5px 2px 5px;
+  border-radius: 3px;
 }
 
 .site-nav a {
-  color:$grey-color;
+  // color:$grey-color;
 }
 
 .legend {
@@ -312,5 +313,13 @@ input:invalid {
   margin-top: 2.0em;
   margin-bottom: 4.0em;
   text-align: center;
+  color: $grey-color;
+}
+
+.about {
+  padding-bottom: 1em;
+}
+
+a.page-link-thin {
   color: $grey-color-light;
 }

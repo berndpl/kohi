@@ -10,13 +10,12 @@ layout: default
     <p>Method and effect. See Balconia Coffee unfold roast by roast.</p>
   </div>
 
-  <h3>Recent roasts</h3>
   <ul class="post-list">
     {% for post in site.posts limit:8 %}
         {% if post.categories contains 'Roast' %}
       <li>
         <h2>
-          ☉ <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          ⌽ <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
         <div class="meta-date">{{ post.date | date_to_string }}</div>
         <div class="meta-date"><img src="{{ site.baseurl }}/assets/{{ post.tags }}@2x.png" width="300px" title="Roast duration and moment of first crack" />
