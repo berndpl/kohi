@@ -6,12 +6,16 @@ layout: default
 
 <div class="home">
 
+  <div class="about">
+    <p>This is where I document the roasting progress and insights.</p>
+  </div>
+<h3>Notes</h3>
   <ul class="post-list">
     {% for post in site.posts %}
         {% unless post.categories contains 'Roast' %}
       <li>
         <h2>
-          <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          ✎ <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
         <div class="meta-date">{{ post.date | date_to_string }}</div>
       </li>
@@ -20,7 +24,7 @@ layout: default
   </ul>
 
   <div class="about">
-    <p>Method and effect. See Balconia Coffee unfold roast by roast. This is where I document the roasting progress and insights. I'd love to hear your thoughts. Get in touch via <a href="https://twitter.com/berndplontsch">Twitter</a>.</p>
+    <p>…also, I'd love to hear your thoughts. Get in touch via <a href="https://twitter.com/berndplontsch">Twitter</a>.</p>
   </div>
 
 </div>

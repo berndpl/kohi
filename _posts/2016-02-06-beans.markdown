@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  ☉ First beans
+title:  First beans
 date:   2016-02-04 16:47:45 +0100
 categories: Background
 ---
