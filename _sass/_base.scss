@@ -85,6 +85,8 @@ h1, h2, h4, h5, h6 {
 h3 {
   font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
   color: $black-color;
+  font-weight: 800;
+  font-size: 1.3em;
   // background-color: $marker-color;
   padding-bottom: 0;
 }
@@ -97,7 +99,7 @@ a {
     text-decoration: none;
 
     &:hover {
-        color: $brand-color;
+        color: $brand-color-darken;
         // text-decoration: underline;
     }
 }
