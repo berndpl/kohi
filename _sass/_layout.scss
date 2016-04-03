@@ -80,7 +80,7 @@
 
     .meta-date {
       display: inline;
-      color: $grey-color
+      color: $grey-color;
     }
 }
 
@@ -198,8 +198,8 @@
 
 .site-nav a.active {
   background-color: $marker-color;
-  padding: 4px 5px 2px 5px;
-  border-radius: 3px;
+  padding: 4px 10px 2px 10px;
+  border-radius: 6px;
 }
 
 .site-nav a {
@@ -311,14 +311,24 @@ input:invalid {
 }
 
 .site-footer {
-  margin-top: 2.0em;
+  margin-top: 2.5em;
   margin-bottom: 4.0em;
   text-align: center;
   color: $grey-color;
+  font-size: $small-font-size;
 }
 
 .about {
   padding-bottom: 1em;
+  font-size: $large-font-size;
+}
+
+.comment {
+  margin-left: 1.3em;
+  font-size: $base-font-size;
+  border-left: 7px solid $alternate-brand-color;
+  padding-left: $spacing-unit / 2;
+  color: $grey-color
 }
 
 a.page-link-thin {
