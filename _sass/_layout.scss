@@ -37,10 +37,12 @@
           display: block;
       li {
         list-style-type: none;
-        @include media-query($on-laptop) {
+        padding-top: 0px;
+        padding-bottom: 0px;
+        @media screen and (min-width: 680px) {
           display: inline;
+          padding: 16px;
         }
-        padding: 16px;
       }
     }
 }
