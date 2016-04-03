@@ -13,10 +13,11 @@
 $base-font-family: "Alice", "Helvetica Neue", Helvetica, Arial, sans-serif;
 $headline-font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
 
-$base-font-size:   22px;
+$base-size: 18px;
+$base-font-size:   $base-size * 1.4;
 $base-font-weight: 400;
-$small-font-size:  $base-font-size * 0.875;
-$large-font-size:  $base-font-size * 1.475;
+$small-font-size:  $base-size * 0.875;
+$large-font-size:  $base-size * 1.475;
 $base-line-height: 1.6;
 
 $spacing-unit:     30px;

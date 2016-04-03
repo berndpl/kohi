@@ -72,15 +72,21 @@
 
     h2, .post-link {
 
-      font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
+      font: $base-font-weight #{$base-font-size}/#{$base-line-height} $headline-font-family;
       color: $grey-color-dark;
+      font-weight: 400;
+
       padding-right: 6px;
       display: inline;
+      letter-spacing: -0.01em;
     }
 
     .meta-date {
       display: inline;
-      color: $grey-color;
+      color: $grey-color-light;
+      font: $base-font-weight #{$base-font-size}/#{$base-line-height} $headline-font-family;
+      font-size: $small-font-size;
+      font-weight: 100;
     }
 }
 
@@ -101,14 +107,15 @@
  * Posts
  */
 .post-header {
-    margin-bottom: $spacing-unit;
+    // margin-bottom: $spacing-unit;
     text-align: center;
 
     .header-title h1 {
       font: $base-font-weight #{$base-font-size}/#{$base-line-height} $headline-font-family;
       font-weight: 800;
-      font-size: 2.6em;
-      letter-spacing: 0.01em;
+      font-size: 2.0em;
+      letter-spacing: -0.01em;
+      margin-top: 0;
       line-height: 1.3;
       color: $grey-color-dark;
       margin-bottom: 10px;
@@ -116,6 +123,8 @@
 
     h2.header-subtitle {
       margin-top: 10px;
+      font-size: 0.8em;
+      font-family: $base-font-family;
     }
 
 
@@ -131,7 +140,7 @@
 
 .post-title {
     font-size: 42px;
-    letter-spacing: -1px;
+    letter-spacing: -0.05em;
     line-height: 1;
 
     @include media-query($on-laptop) {
@@ -140,6 +149,7 @@
 }
 
 .post-content {
+    padding-top: 1em;
     margin-bottom: $spacing-unit;
 
     h2 {
@@ -238,7 +248,7 @@ input[type="text"] {
   border-right: 0px;
   border-bottom: 1px solid $grey-color;
   font-size: $base-font-size;
-  font-family: $base-font-family;
+  font-family: $headline-font-family;
   -webkit-appearance:none;
   -webkit-border-radius:0px;
 }
@@ -251,7 +261,7 @@ input[type="submit"] {
     border-radius:3px;
     color: #fff;
     font-weight: 800;
-    font-size: 1.0em;
+    font-size: 0.7em;
     text-decoration: none;
     cursor: pointer;
     border:none;
@@ -259,11 +269,10 @@ input[type="submit"] {
     padding-left: 5px;
     padding-right: 5px;
 
-
     background-color: transparent;
     color: $brand-color-darken;
     font-weight: 100;
-    font-family: $base-font-family;
+    font-family: $headline-font-family;
 }
 
 input[type="submit"]:hover {
@@ -324,7 +333,7 @@ input:invalid {
 }
 
 .comment {
-  margin-left: 1.3em;
+  // margin-left: 1.3em;
   font-size: $base-font-size;
   border-left: 7px solid $alternate-brand-color;
   padding-left: $spacing-unit / 2;
