@@ -30,11 +30,16 @@
     padding: 12px;
     line-height: 2.0;
     text-transform: uppercase;
+
+// $on-palm
+
     ul {
-      display: block;
+          display: block;
       li {
         list-style-type: none;
-        display: inline;
+        @include media-query($on-laptop) {
+          display: inline;
+        }
         padding: 16px;
       }
     }
