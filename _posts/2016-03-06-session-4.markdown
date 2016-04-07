@@ -1,0 +1,25 @@
+---
+layout: post
+title:  Session 4
+date:   2016-04-06 14:47:45 +0100
+categories: Goals
+permalink: /session-4/
+---
+
+I finished my first 1kg from Costa Rica. I am switching now to Brasilian beans. Thereby I am loosing my reference, everything might change.
+
+### Plan
+> * Further increase weight <strike>from 75g to 90g to 110g</strike> to 120g
+
+### Goals
+> * Roast in 1 minute increments after first crack
+> * Try to get around the one burned roast on the upper end by narrowing the roast times
+> * Try to achieve a more even roast by increasing the amount of beans (this might also make it worse)
+
+### Parameters
+> * **Origin** Brasil
+> * **Bean weight** 120g
+> * **Air temperature** ?
+
+![Session 4]({{ site.baseurl }}/assets/2016-04-06/session04_01.jpg)
+![Session 4]({{ site.baseurl }}/assets/2016-04-06/session04_02.jpg)*Beans from Costa Rica, Tarrazú de San Ramón*
