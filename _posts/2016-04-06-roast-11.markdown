@@ -8,7 +8,7 @@ tags:
 permalink: /11/
 ---
 
-* **Beans** 107 grams
+* **Beans** Guatemala, Finca Buena Vista, Genuine Antigua, Microlot
 * **Air** 14°C
 * **Session** [Goals]({{ site.baseurl }}/session-4/)
 
@@ -25,4 +25,4 @@ permalink: /11/
 * **Roasted** 107 grams
 
 ![Roasting Process, Batch 11]({{ site.baseurl }}/assets/11/batch11_01.jpg)*Roasting has started*
-![Roasting Process, Batch 11]({{ site.baseurl }}/assets/11/batch11_02.jpg)*All done*
+![Roasting Process, Batch 11]({{ site.baseurl }}/assets/11/batch11_02.jpg)*Roasted beans*
