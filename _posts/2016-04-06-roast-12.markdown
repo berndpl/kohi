@@ -8,9 +8,8 @@ tags:
 permalink: /12/
 ---
 
-* **Beans** Guatemala, Finca Buena Vista, Genuine Antigua, Microlot
 * **Air** 16°C
-* **Session** [Goals]({{ site.baseurl }}/session-4/)
+* **Goals** [Session 4]({{ site.baseurl }}/session-4/)
 
 ### Process
 
@@ -20,6 +19,7 @@ permalink: /12/
 
 ### Beans
 
+* **Origin** Guatemala, Finca Buena Vista, Genuine Antigua, Microlot
 * **Total** 120 grams
 * **Waste** 2 grams
 * **Roasted** 102.9 grams
