@@ -10,7 +10,7 @@ permalink: /order/
 </div>
 
 <div class="about">
-	<p>Sad song <a href="https://www.youtube.com/watch?v=p4cJv6s_Yjw">🎶</a>. Currently there are no beans available for order. If you want to be first to know about a fresh roast please let me know how to reach you</p>
+	<p>Sad song <a href="https://www.youtube.com/watch?v=p4cJv6s_Yjw">🎶</a>. Currently there are no beans available for order. If you want to be first to know about fresh roasts please let me know how to reach you</p>
 
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
