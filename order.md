@@ -10,7 +10,7 @@ permalink: /order/
 </div>
 
 <div class="about">
-	<p>Put on a sad song. Currently there are no beans available for order. Leave your email address here to get notified about fresh roasts 🐿</p>
+	<p>Put on a sad song. Currently there are no beans available for order. Leave your email address here to get notified about freshly roasted coffee</p>
 
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
@@ -41,5 +41,5 @@ permalink: /order/
 </div>
 
 <div class="comment">
-<p>Note that I have zero interest and no spare time to use your address for anything else than these very roast notifications. Promise</p>
+<p>I will never use your address for anything else than actual roast notifications. Promise</p>
 </div>
