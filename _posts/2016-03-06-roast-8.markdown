@@ -1,0 +1,30 @@
+---
+layout: roast
+title:  'Roast #8'
+date:   2016-03-06 15:58:00 +0100
+categories: Roast
+tags:
+- batch8
+permalink: /8/
+---
+
+* **Beans** 93.7 grams
+* **Air** 4°C
+* **Session** [Goals]({{ site.baseurl }}/session-4/)
+
+### Process
+
+* **1. Crack**, 7:09 min
+* **2. Crack**, – min
+* **Duration** 11:09 min
+
+### Beans
+
+* **Total** 110 grams
+* **Waste** 0.9 gram
+* **Roasted** 93.7 grams
+
+![Roasting Process, Batch 8]({{ site.baseurl }}/assets/8/batch08_01.jpg)*Unroasted beans*
+![Roasting Process, Batch 8]({{ site.baseurl }}/assets/8/batch08_02.jpg)*Roasting beans*
+![Roasting Process, Batch 8]({{ site.baseurl }}/assets/8/batch08_03.jpg)*Chaff*
+![Roasting Process, Batch 8]({{ site.baseurl }}/assets/8/batch08_04.jpg)*Roasted beans*

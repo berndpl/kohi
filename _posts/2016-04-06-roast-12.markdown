@@ -1,0 +1,29 @@
+---
+layout: roast
+title:  'Roast #12'
+date:   2016-04-06 17:05:00 +0100
+categories: Roast
+tags:
+- batch12
+permalink: /12/
+---
+
+* **Beans** 102.9 grams
+* **Air** 16°C
+* **Session** [Goals]({{ site.baseurl }}/session-4/)
+
+### Process
+
+* **1. Crack**, 2:30 min
+* **2. Crack**, – min
+* **Duration** 5:30 min
+
+### Beans
+
+* **Total** 120 grams
+* **Waste** 2 grams
+* **Roasted** 102.9 grams
+
+![Roasting Process, Batch 12]({{ site.baseurl }}/assets/12/batch12_01.jpg)*Roasting has started*
+![Roasting Process, Batch 12]({{ site.baseurl }}/assets/12/batch12_02.jpg)*All done*
+![Roasting Process, Batch 12]({{ site.baseurl }}/assets/12/batch12_03.jpg)*All done*

@@ -1,0 +1,29 @@
+---
+layout: roast
+title:  'Roast #7'
+date:   2016-03-06 15:41:00 +0100
+categories: Roast
+tags:
+- batch7
+permalink: /7/
+---
+
+* **Beans** 94.9 grams
+* **Air** 4°C
+* **Session** [Goals]({{ site.baseurl }}/session-4/)
+
+### Process
+
+* **1. Crack**, 6:20 min
+* **2. Crack**, – min
+* **Duration** 8:30 min
+
+### Beans
+
+* **Total** 110 grams
+* **Waste** 0.8 gram
+* **Roasted** 94.9 grams
+
+![Roasting Process, Batch 7]({{ site.baseurl }}/assets/7/batch07_01.jpg)*Okay. Let's do this*
+![Roasting Process, Batch 7]({{ site.baseurl }}/assets/7/batch07_02.jpg)*Logging the process. Observing waste*
+![Roasting Process, Batch 7]({{ site.baseurl }}/assets/7/batch07_03.jpg)*Roasted beans*

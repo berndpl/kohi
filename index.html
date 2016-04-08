@@ -7,7 +7,7 @@ layout: default
 <div class="home">
 
   <div class="about">
-    <p>See Balconia Coffee unfold, roast by roast. Every roast has a dedicated page where you can learn everything about the its roasting goals, the applied process and parameters.</p>
+    <p>See Balconia Coffee unfold, roast by roast. Every roast has a dedicated page where you can learn everything about its roasting goals, the applied process and roast parameters.</p>
   </div>
 
   <ul class="post-list">
@@ -18,15 +18,19 @@ layout: default
           ⌽ <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
         <div class="meta-date">{{ post.date | date_to_string }}</div>
-        <div class="meta-date"><img src="{{ site.baseurl }}/assets/{{ post.tags }}@2x.png" width="300px" title="Roast duration and moment of first crack" />
+        <div class="meta-date"><img src="{{ site.baseurl }}/assets/{{ post.tags }}.png" width="400px" title="Roast duration and moment of first crack" />
       </li>
       {% endif %}
   {% endfor %}
     <li>{% include roast-finder.html %}</li>
   </ul>
 
-  <div class="comment">
+<div class="about-image">
+  <p><img src="{{ site.baseurl }}/assets/kohi_header_02.jpg" alt="Roasting Process, Batch 4"><em>A view at the balcony</em></p>
+</div>
+
+  <!-- <div class="comment">
     <p>Even if it all goes bad, count on it being well documented</p>
-  </div>
+  </div> -->
 
 </div>

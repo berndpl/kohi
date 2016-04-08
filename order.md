@@ -6,11 +6,11 @@ permalink: /order/
 
 {% include nav-order.html %}
 
-<div class="package"><img src="{{ site.baseurl }}/assets/balconia_package_placeholder.jpg" width="220" alt="Balconia Coffee Beans" />
+<div class="package"><img src="{{ site.baseurl }}/assets/balconia_package_placeholder.png" width="420" alt="Balconia Coffee Beans" />
 </div>
 
 <div class="about">
-	<p>Put on a sad song. Currently there are no beans available for order. Leave your email address here to get notified about freshly roasted coffee</p>
+	<p>Sad song <a href="https://www.youtube.com/watch?v=p4cJv6s_Yjw">🎶</a>. Currently there are no beans available for order. If you want to be first to know about a fresh roast please leave your email address here</p>
 
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">

@@ -1,0 +1,30 @@
+---
+layout: roast
+title:  'Roast #9'
+date:   2016-03-06 16:18:00 +0100
+categories: Roast
+tags:
+- batch9
+permalink: /9/
+---
+
+* **Beans** 90.3 grams
+* **Air** 5°C
+* **Session** [Goals]({{ site.baseurl }}/session-4/)
+
+### Process
+
+* **1. Crack**, 6:20 min
+* **2. Crack**, – min
+* **Duration** 12:09 min
+
+### Beans
+
+* **Total** 110 grams
+* **Waste** 1.4 grams
+* **Roasted** 90.3 grams
+
+![Roasting Process, Batch 9]({{ site.baseurl }}/assets/9/batch09_01.jpg)*Roasting, 49 seconds in*
+![Roasting Process, Batch 9]({{ site.baseurl }}/assets/9/batch09_02.jpg)*Some wated beans*
+![Roasting Process, Batch 9]({{ site.baseurl }}/assets/9/batch09_03.jpg)*Getting serious*
+![Roasting Process, Batch 9]({{ site.baseurl }}/assets/9/batch09_04.jpg)*Product*

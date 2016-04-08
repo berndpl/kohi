@@ -6,7 +6,7 @@ categories: Goals
 permalink: /session-4/
 ---
 
-I finished my first 1kg from Costa Rica. I am switching now to Brasilian beans. Thereby I am loosing my reference, everything might change.
+I finished my first 1kg from Costa Rica. I am switching now to beans from Guatemala. Thereby I am loosing my reference. Everything might change.
 
 ### Plan
 > * Further increase weight <strike>from 75g to 90g to 110g</strike> to 120g
@@ -17,9 +17,9 @@ I finished my first 1kg from Costa Rica. I am switching now to Brasilian beans. 
 > * Try to achieve a more even roast by increasing the amount of beans (this might also make it worse)
 
 ### Parameters
-> * **Origin** Brasil
-> * **Bean weight** 120g
-> * **Air temperature** ?
+> * **Origin** Guatemala, Finca Buena Vista, Genuine Antigua, Microlot
+> * **Bean weight** 120g unroasted
+> * **Air temperature** 14-16 °C
 
-![Session 4]({{ site.baseurl }}/assets/2016-04-06/session04_01.jpg)
-![Session 4]({{ site.baseurl }}/assets/2016-04-06/session04_02.jpg)*Beans from Costa Rica, Tarrazú de San Ramón*
+![Session 4]({{ site.baseurl }}/assets/2016-04-06/session04_01.jpg)*Unroasted beans from Guatemala*
+![Session 4]({{ site.baseurl }}/assets/2016-04-06/session04_02.jpg)*…1 hour later*
