@@ -6,11 +6,11 @@ permalink: /order/
 
 {% include nav-order.html %}
 
-<div class="package"><img src="{{ site.baseurl }}/assets/balconia_package_placeholder.png" width="420" alt="Balconia Coffee Beans" />
+<div class="package"><img src="{{ site.baseurl }}/assets/balconia_package_placeholder.png" width="480" alt="Balconia Coffee Beans" />
 </div>
 
 <div class="about">
-	<p>Sad song <a href="https://www.youtube.com/watch?v=p4cJv6s_Yjw">🎶</a>. Currently there are no beans available for order. If you want to be first to know about a fresh roast please leave your email address here</p>
+	<p>Sad song <a href="https://www.youtube.com/watch?v=p4cJv6s_Yjw">🎶</a>. Currently there are no beans available for order. If you want to be first to know about a fresh roast please let me know how to reach you</p>
 
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
@@ -41,5 +41,5 @@ permalink: /order/
 </div>
 
 <div class="comment">
-<p>I will never use your address for anything else than actual roast notifications. Promise</p>
+<p>I will never use your address for anything else than this. Promise</p>
 </div>
