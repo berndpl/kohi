@@ -41,5 +41,5 @@ permalink: /order/
 </div>
 
 <div class="comment">
-<p>Your address will only be used for roast notifications. Nothing else.</p>
+<p>Your address will only be used for roast notifications. Promise.</p>
 </div>
