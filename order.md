@@ -10,7 +10,7 @@ permalink: /order/
 </div>
 
 <div class="about">
-	<p>Sad song <a href="https://www.youtube.com/watch?v=p4cJv6s_Yjw">🎶</a>. There are no beans available for order and probably won't be for a while unless I feel confident enough with my roast process. If you do home roasting, too I'd be excited to exchange a batch and discuss experiences. Get in touch. If you want to be first to know about fresh roasts please let me know how to reach you.</p>
+	<p>There are no beans available for order and probably won't be for a while. Let me know if you want to be informed about fresh roasts.</p>
 
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
@@ -41,5 +41,5 @@ permalink: /order/
 </div>
 
 <div class="comment">
-<p>I will never use your address for anything else than this. Promise</p>
+<p>Your address will only be used for roast notifications. Nothing else.</p>
 </div>
