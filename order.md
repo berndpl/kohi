@@ -32,3 +32,14 @@ permalink: /order/
 	</div>
 
 	<!--End mc_embed_signup-->
+
+	<style>
+	#mc_embed_signup .button {
+		background-color: #267d7d;
+	}
+
+	#mc_embed_signup .button:hover {
+		background-color: #267d7d;
+	}
+
+	</style>
