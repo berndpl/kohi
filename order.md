@@ -10,7 +10,7 @@ permalink: /order/
 </div>
 
 <div class="about">
-	<p>There are no beans available for order and probably won't be for a while. If you want me to inform you about fresh roasts subscribe here:</p>
+	<p>There are no beans available for order and probably won't be for a while. If you want to be informed about fresh roasts subscribe here:</p>
 
 	<!-- Begin MailChimp Signup Form -->
 	<link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
