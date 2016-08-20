@@ -155,9 +155,9 @@ blockquote {
 pre,
 code {
     font-size: 15px;
-    border: 1px solid $grey-color-light;
+    // border: 1px solid $grey-color-light;
     border-radius: 3px;
-    background-color: #eef;
+    background-color: #FDE6F1;
 }
 
 code {
@@ -237,11 +237,11 @@ div.logo {
 
 
 ul {
-  margin-left: 0;
+  margin-left: 1.0em;
   // padding-left: 0px;
   margin-bottom: 1.8em;
   li {
-    list-style-type: none;
+    list-style-type: disc;
   }
 }
 

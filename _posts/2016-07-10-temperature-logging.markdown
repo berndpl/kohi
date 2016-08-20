@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Temperature Logging
+title:  Temperature Logging Setup
 date:   2016-07-10 20:47:45 +0100
 categories: Background
 ---
