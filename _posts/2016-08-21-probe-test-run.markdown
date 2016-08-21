@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Making popcorn, a probe test run
+title: Probe test run
 date:   2016-08-21 12:47:45 +0100
 categories: Background
 ---
