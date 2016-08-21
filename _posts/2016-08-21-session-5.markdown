@@ -1,0 +1,27 @@
+---
+layout: post
+title:  Session 5
+date:   2016-08-21 14:47:45 +0100
+categories: Goals
+permalink: /session-5/
+---
+
+This is the first session using probe logging the the bean temperature. I am starting again with 100g of beans per roast.
+
+I will do relatively identical roast runs, stopping around 1 to 2 minutes after the end of the first crack.
+
+### Plan
+> Roast 100g per batch
+
+### Goals
+> * First experience with artisan and bean temperature probe
+> * See how roast length and crack correlate with roast curve
+
+### Parameters
+> * **Origin** Guatemala, Finca Buena Vista, Genuine Antigua, Microlot
+> * **Beans** 100g unroasted
+> * **Air** 14-16 °C
+> * **Duration** First crack + 1-2 minutes
+
+![Session 5]({{ site.baseurl }}/assets/2016-08-22/session_05_00.jpg)*Unroasted beans from Guatemala*
+![Session 5]({{ site.baseurl }}/assets/2016-08-22/session_05_01.jpg)*…1 hour later*

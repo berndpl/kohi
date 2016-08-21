@@ -97,6 +97,23 @@
     }
 }
 
+.post {
+  blockquote {
+      color: $grey-color;
+      border-left: 4px solid $grey-color-light;
+      padding-left: $spacing-unit / 2;
+
+      li {
+        list-style-type:none;
+      }
+
+
+      > :last-child {
+          margin-bottom: 0;
+      }
+  }
+}
+
 .roast {
   ul {
     margin-left: 0em;
