@@ -16,7 +16,7 @@ permalink: /13/
 
 <meta name="twitter:title" content="Roast #13" />
 <meta name="twitter:description" content="Guatemala, Finca Buena Vista, Genuine Antigua, Microlot, 100 grams">
-<meta name="twitter:image" content="http://balconia.plontsch.de/assets/13/roast_curve_13_twitter.jpg">
+<meta name="twitter:image" content="http://balconia.plontsch.de/assets/13/roast_curve_13_twitter_01.jpg">
 <meta name="twitter:url" content="http://balconia.plontsch.de/13/" />
 
 
