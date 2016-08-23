@@ -27,4 +27,4 @@ permalink: /13/
 
 ![Roasting Process, Batch 13]({{ site.baseurl }}/assets/13/roast_13_02.jpg)
 
-![Roasting Process, Batch 13]({{ site.baseurl }}/assets/13/roast_13_03.jpg)*Finished roast after cooling down*
+![Roasting Process, Batch 13]({{ site.baseurl }}/assets/13/roast_13_03.jpg)*Finished roast after cool down*
