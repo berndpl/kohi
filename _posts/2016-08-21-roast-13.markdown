@@ -12,6 +12,7 @@ permalink: /13/
 <meta name="twitter:site" content="Balconia Coffee" />
 <meta name="twitter:title" content="Roast #13" />
 <meta name="twitter:image:width" content="435" />
+<meta name="twitter:image:width" content="256" />
 <meta name="twitter:image" content="http://balconia.plontsch.de/assets/13/twitter_roast_curve_13.jpg" />
 <meta name="twitter:url" content="http://balconia.plontsch.de/13/" />
 
