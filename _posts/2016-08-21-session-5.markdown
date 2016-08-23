@@ -24,4 +24,4 @@ I will do relatively identical roast runs, stopping around 1 to 2 minutes after 
 > * **Duration** First crack + 1-2 minutes
 
 ![Session 5]({{ site.baseurl }}/assets/2016-08-22/session_05_00.jpg)*Unroasted beans from Guatemala*
-![Session 5]({{ site.baseurl }}/assets/2016-08-22/session_05_01.jpg)*The roasted beans. Roast #15 having the shortest post-first crack time to end*
+![Session 5]({{ site.baseurl }}/assets/2016-08-22/session_05_01.jpg)*The roasted beans. Roast #15 on the left having the shortest roast time*
