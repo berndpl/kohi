@@ -6,7 +6,7 @@ categories: Goals
 permalink: /session-5/
 ---
 
-This is the first session using probe logging the the bean temperature. I am starting again with 100g of beans per roast.
+This is the first session using a probe for logging the bean temperature. I am starting again with 100g of beans per roast.
 
 I will do relatively identical roast runs, stopping around 1 to 2 minutes after the end of the first crack.
 
@@ -15,7 +15,7 @@ I will do relatively identical roast runs, stopping around 1 to 2 minutes after 
 
 ### Goals
 > * First experience with artisan and bean temperature probe
-> * See how roast length and crack correlate with roast curve
+> * See how roast length and first crack correlate with roast curve
 
 ### Parameters
 > * **Origin** Guatemala, Finca Buena Vista, Genuine Antigua, Microlot
@@ -24,4 +24,4 @@ I will do relatively identical roast runs, stopping around 1 to 2 minutes after 
 > * **Duration** First crack + 1-2 minutes
 
 ![Session 5]({{ site.baseurl }}/assets/2016-08-22/session_05_00.jpg)*Unroasted beans from Guatemala*
-![Session 5]({{ site.baseurl }}/assets/2016-08-22/session_05_01.jpg)*…1 hour later*
+![Session 5]({{ site.baseurl }}/assets/2016-08-22/session_05_01.jpg)*…1 hour later with Roast #15 having the shortest post-first crack time to end*
