@@ -14,4 +14,4 @@ Works great.
 
 ![Drill]({{ site.baseurl }}/assets/2016-08-22/probes_00.jpg)
 
-![Probe]({{ site.baseurl }}/assets/2016-08-22/probes_01.jpg)*Popcorn popper with internal probe for bean temperature*
+![Probe]({{ site.baseurl }}/assets/2016-08-22/probes_01.jpg)*Popcorn popper with internal probe for measuring bean temperature*
