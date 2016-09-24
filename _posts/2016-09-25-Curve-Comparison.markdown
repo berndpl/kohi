@@ -5,7 +5,9 @@ date:   2016-09-24 08:47:45 +0100
 categories: Background
 ---
 
-Here's a first attempt of comparing roast curves from [Session 5]({{ site.baseurl }}/session-5/).
+![Curves]({{ site.baseurl }}/assets/2016-09-25/roast_curve_13-14-15.jpg)
+
+Here's a first attempt of comparing roast curves from [Session 5]({{ site.baseurl }}/session-5/). You can also see how the starting temperature is increasing form roast to roast as the popcorn popper isn't fully cooling down.
 
 ### [Roast #13]({{ site.baseurl }}/13/)
 
@@ -17,6 +19,4 @@ Bitter
 
 ### [Roast #15]({{ site.baseurl }}/15/)
 
-Forgot
-
-![Curves]({{ site.baseurl }}/assets/2016-09-25/roast_curve_13-14-15.jpg)
+Oops. Forgot
