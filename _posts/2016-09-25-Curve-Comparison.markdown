@@ -3,7 +3,19 @@ layout: post
 title: Comparing Curves
 date:   2016-09-24 08:47:45 +0100
 categories: Background
+permalink: /comparison-13-14-15/
 ---
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="Balconia Coffee">
+<meta name="twitter:creator" content="@berndplontsch">
+<meta name="twitter:image:width" content="435" />
+<meta name="twitter:image:width" content="256" />
+
+<meta name="twitter:title" content="Roast curves" />
+<meta name="twitter:description" content="Comparing roast curves of roasts 13, 14 and 15.">
+<meta name="twitter:image" content="http://balconia.plontsch.de/assets/2016-09-25/roast_curve_13-14-15_twitter.jpg">
+<meta name="twitter:url" content="http://balconia.plontsch.de/comparison-13-14-15/" />
 
 ![Curves]({{ site.baseurl }}/assets/2016-09-25/roast_curve_13-14-15.jpg)
 
