@@ -1,0 +1,28 @@
+---
+layout: roast
+title:  'Roast #15'
+date:   2016-08-21 17:07:00 +0100
+categories: Roast
+tags:
+- batch15
+permalink: /15/
+---
+
+![Roast Curve 15]({{ site.baseurl }}/assets/15/roast_curve_15.png)
+
+* **Goals** [Session 5]({{ site.baseurl }}/session-5/)
+
+### Process
+
+* **Air** 32°C
+* **1. Crack**, 3:24 min
+* **Duration** 5:30 min
+
+### Beans
+
+* **Origin** Guatemala, Finca Buena Vista, Genuine Antigua, Microlot
+* **Total** 100 grams
+
+![Roasting Process, Batch 15]({{ site.baseurl }}/assets/15/roast_15_01.jpg)*1:27 in…*
+
+![Roasting Process, Batch 15]({{ site.baseurl }}/assets/15/roast_15_02.jpg)*Finished roast after cool down*
