@@ -25,4 +25,4 @@ permalink: /15/
 
 ![Roasting Process, Batch 15]({{ site.baseurl }}/assets/15/roast_15_01.jpg)*1:27 in…*
 
-![Roasting Process, Batch 15]({{ site.baseurl }}/assets/15/roast_15_02.jpg)*Finished roast after cool down*
+![Roasting Process, Batch 15]({{ site.baseurl }}/assets/15/roast_15_02b.jpg)*Finished roast after cool down*
