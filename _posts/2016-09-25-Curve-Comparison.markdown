@@ -19,7 +19,7 @@ permalink: /comparison-13-14-15/
 
 ![Curves]({{ site.baseurl }}/assets/2016-09-25/roast_curve_13-14-15.jpg)
 
-Here's a first attempt of comparing roast curves from [Session 5]({{ site.baseurl }}/session-5/). You can also see how the starting temperature is increasing form roast to roast as the popcorn popper isn't fully cooling down.
+Here's a first attempt of comparing roast curves from [Session 5]({{ site.baseurl }}/session-5/). You can also see how the starting temperature is increasing from roast to roast as the popcorn popper isn't fully cooling down.
 
 ### [Roast #13]({{ site.baseurl }}/13/)
 
