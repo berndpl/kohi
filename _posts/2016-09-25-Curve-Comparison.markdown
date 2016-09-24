@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Comparing Curves
+title: Roast Curves
 date:   2016-09-24 08:47:45 +0100
 categories: Background
 permalink: /comparison-13-14-15/
